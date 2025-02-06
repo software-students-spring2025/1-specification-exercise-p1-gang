@@ -43,8 +43,9 @@ As a **user**, I want to track my productivity streaks so that I can stay consis
 As a **user**, I want to compare my progress with friends so that I can stay motivated through friendly competition. 
 
 ## Activity Diagrams
+[Activity diagram.pdf](https://github.com/user-attachments/files/18697126/Activity.diagram.pdf)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/4357b5f0-cf3f-4979-8c30-d7f05a29ce10" />
 
 ## Clickable Prototype
 
