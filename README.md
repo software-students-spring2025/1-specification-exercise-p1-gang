@@ -6,11 +6,11 @@ A little exercise to get started with the specification phase of the software de
 
 Jimena Menendez - https://github.com/jkm8294 
 
-Sarah Wang - 
+Sarah Wang - https://github.com/sarahswang
 
-Nikita Bhaskar - 
+Nikita Bhaskar - https://github.com/nikitabhaskar
 
-Ariya Mathrawala -
+Ariya Mathrawala - https://github.com/ariyamath29
 
 ## Stakeholders
 
