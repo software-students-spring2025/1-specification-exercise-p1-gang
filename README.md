@@ -14,7 +14,25 @@ Ariya Mathrawala - https://github.com/ariyamath29
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+**Carolina Lizama**
+
+**User Background**
+
+Carolina is a 22-year-old college student working part-time while balancing school, work, friendships, and personal well-being. She values exercise and self-care but often struggles to fit them into her busy schedule. 
+
+**Goals/Needs**
+
+1. Better balance across responsibilities - She wants a structured way to juggle school, work, her social life, and personal wellness without feeling burnt out.
+2. Time-Efficient Self-care - She needs quick and practical ways to incorporate exercise, rest, and relaxation into her routine without sacrificing other priorities.
+3. Accountability and Motivation - She feels more productive and motivated when working with others or having a system that tracks her progress.
+4. Attainable Steps - Overarching goals like maintaining a relationship or staying healthy feel overwhelming; breaking them into smaller tasks makes them easier to follow through on.
+
+**Problems & Frustrations**
+
+1. Struggles to Prioritize Well-Being - School and work take precedence, leaving little time for things like working out, relaxation, or quality time with friends.
+2. Feels Overwhelmed by Big Goals - Broad goals like "maintain a good GPA" or "have a balanced life" feel abstract and difficult to manage.
+3. Productivity Depends on External Pressure - Academic work and responsibilities get done because of deadlines but, personal goals often fall through without external motivation.
+4. Guilt about 'Unproductive' Activities - Feels like activities such as socializing, resting, or exercising are not as urgent as school or work, making it hard to justify spending time on them. 
 
 ## Product Vision Statement
 
