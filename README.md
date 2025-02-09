@@ -49,4 +49,4 @@ As a **user**, I want to compare my progress with friends so that I can stay mot
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/9ff3MdBQKz59eKyXbuEls3/p1-gang?node-id=19-20&p=f&t=zz9984dBUqacSFdq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1 
