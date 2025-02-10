@@ -61,10 +61,10 @@ As a **user**, I want to track my productivity streaks so that I can stay consis
 As a **user**, I want to compare my progress with friends so that I can stay motivated through friendly competition. 
 
 ## Activity Diagrams
-[Activity diagram.pdf](https://github.com/user-attachments/files/18697126/Activity.diagram.pdf)
 
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/4357b5f0-cf3f-4979-8c30-d7f05a29ce10" />
+<img width="634" alt="image" src="https://github.com/user-attachments/assets/b8625d4d-5bce-4ca2-a8e8-b7e8980836c7" />
+
 
 ## Clickable Prototype
+<a href="https://www.figma.com/proto/9ff3MdBQKz59eKyXbuEls3/p1-gang?node-id=19-20&p=f&t=zz9984dBUqacSFdq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"> Prototype </a>
 
-https://www.figma.com/proto/9ff3MdBQKz59eKyXbuEls3/p1-gang?node-id=19-20&p=f&t=zz9984dBUqacSFdq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1 
