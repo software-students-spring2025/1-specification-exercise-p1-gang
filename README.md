@@ -62,7 +62,8 @@ As a **user**, I want to compare my progress with friends so that I can stay mot
 
 ## Activity Diagrams
 
-<img width="634" alt="image" src="https://github.com/user-attachments/assets/b8625d4d-5bce-4ca2-a8e8-b7e8980836c7" />
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/7831617c-b6fd-495a-915a-4801e9a4e132" />
+
 
 
 ## Clickable Prototype
